@@ -1,0 +1,7 @@
+.idea/
+dist/
+jukebox_shout.egg-info/
+*.pyc
+*.pid
+build/
+*.sw*
